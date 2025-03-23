@@ -1,7 +1,7 @@
 # SDL2
 
 <details>
-<summary><h3>Contents</h3>
+<summary><h3>Contents</h3></summary>
 <ol>
 <li>Hello SDL</li>
 <ul>
