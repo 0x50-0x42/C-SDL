@@ -8,6 +8,10 @@
 <li><a href="https://github.com/0x50-0x42/C-SDL/tree/c_sdl/hellosdl/setup">setup/</a> &rarr; setting up SDL2.</li>
 <li><a href="https://github.com/0x50-0x42/C-SDL/tree/c_sdl/hellosdl/dispWindow">dispWindow/</a> &rarr; First graphics window.</li>
 </ul><br>
+<li>Getting an image on the screen</li>
+<ul>
+<li><a href="https://github.com/0x50-0x42/C-SDL/tree/c_sdl/gettingImageOnTheScreen">gettingImageOnTheScreen/</a> &rarr; Getting an image on the screen.</li>
+</ul><br>
 </ol>
 </details>
 
