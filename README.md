@@ -12,6 +12,10 @@
 <ul>
 <li><a href="https://github.com/0x50-0x42/C-SDL/tree/c_sdl/gettingImageOnTheScreen">gettingImageOnTheScreen/</a> &rarr; Getting an image on the screen.</li>
 </ul><br>
+<li>Event driven programming</li>
+<ul>
+<li><a href="https://github.com/0x50-0x42/C-SDL/tree/c_sdl/eventDrivenProgramming">eventDrivenProgramming/</a> &rarr; event driven programming.</li>
+</ul><br>
 </ol>
 </details>
 
