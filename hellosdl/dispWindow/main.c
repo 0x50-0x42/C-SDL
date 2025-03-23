@@ -1,6 +1,6 @@
 /******
  * Program: main.c
- * Description: getting a windows to pop up
+ * Description: getting a window to pop up
  * ******/
 
 #include<SDL2/SDL.h>
